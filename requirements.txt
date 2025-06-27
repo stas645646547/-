@@ -1,0 +1,11 @@
+python-telegram-bot==20.7
+openai
+langchain
+python-dotenv
+langdetect
+PyPDF2
+markdown
+tqdm
+pytest
+pytest-asyncio
+# если нужна работа с .docx — docx2txt или python-docx

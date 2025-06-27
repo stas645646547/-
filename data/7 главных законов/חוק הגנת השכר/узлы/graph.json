@@ -1,0 +1,626 @@
+{
+  "nodes": [
+    {
+      "id": "advance_notice_law_2001",
+      "label": "advance_notice_law_2001"
+    },
+    {
+      "id": "case_1194_01",
+      "label": "case_1194_01"
+    },
+    {
+      "id": "case_31600_10_11",
+      "label": "case_31600_10_11"
+    },
+    {
+      "id": "case_456_18",
+      "label": "case_456_18"
+    },
+    {
+      "id": "case_arie_levi_vs_sumia_gonzaga",
+      "label": "case_arie_levi_vs_sumia_gonzaga"
+    },
+    {
+      "id": "case_bre_13666_05_11",
+      "label": "case_bre_13666_05_11"
+    },
+    {
+      "id": "case_dir_al_asad_vs_nazareth",
+      "label": "case_dir_al_asad_vs_nazareth"
+    },
+    {
+      "id": "case_ezra_zion",
+      "label": "case_ezra_zion"
+    },
+    {
+      "id": "case_froyimovich_vs_bar_adon",
+      "label": "case_froyimovich_vs_bar_adon"
+    },
+    {
+      "id": "case_haifa_uni_staff",
+      "label": "case_haifa_uni_staff"
+    },
+    {
+      "id": "case_hcj_2293_17",
+      "label": "case_hcj_2293_17"
+    },
+    {
+      "id": "case_hcj_265_68",
+      "label": "case_hcj_265_68"
+    },
+    {
+      "id": "case_hcj_384_66_fuksman",
+      "label": "case_hcj_384_66_fuksman"
+    },
+    {
+      "id": "case_kav_laoved_vs_israel",
+      "label": "case_kav_laoved_vs_israel"
+    },
+    {
+      "id": "case_motor_ap_vs_vared",
+      "label": "case_motor_ap_vs_vared"
+    },
+    {
+      "id": "cash_reduction_law_2018",
+      "label": "cash_reduction_law_2018"
+    },
+    {
+      "id": "collective_agreements_law_1957",
+      "label": "collective_agreements_law_1957"
+    },
+    {
+      "id": "foreign_workers_law_1991",
+      "label": "foreign_workers_law_1991"
+    },
+    {
+      "id": "insolvency_law_2018",
+      "label": "insolvency_law_2018"
+    },
+    {
+      "id": "labor_court_law_1969",
+      "label": "labor_court_law_1969"
+    },
+    {
+      "id": "minimum_wage_law_1987",
+      "label": "minimum_wage_law_1987"
+    },
+    {
+      "id": "nuance_collective_agreement_exception",
+      "label": "nuance_collective_agreement_exception"
+    },
+    {
+      "id": "nuance_project_splitting",
+      "label": "nuance_project_splitting"
+    },
+    {
+      "id": "nuance_written_instruction",
+      "label": "nuance_written_instruction"
+    },
+    {
+      "id": "regulations_special_due_dates_1987",
+      "label": "regulations_special_due_dates_1987"
+    },
+    {
+      "id": "wage_law_art_10",
+      "label": "wage_law_art_10"
+    },
+    {
+      "id": "wage_law_art_11",
+      "label": "wage_law_art_11"
+    },
+    {
+      "id": "wage_law_art_12",
+      "label": "wage_law_art_12"
+    },
+    {
+      "id": "wage_law_art_13",
+      "label": "wage_law_art_13"
+    },
+    {
+      "id": "wage_law_art_14",
+      "label": "wage_law_art_14"
+    },
+    {
+      "id": "wage_law_art_15",
+      "label": "wage_law_art_15"
+    },
+    {
+      "id": "wage_law_art_16",
+      "label": "wage_law_art_16"
+    },
+    {
+      "id": "wage_law_art_17",
+      "label": "wage_law_art_17"
+    },
+    {
+      "id": "wage_law_art_17a",
+      "label": "wage_law_art_17a"
+    },
+    {
+      "id": "wage_law_art_18",
+      "label": "wage_law_art_18"
+    },
+    {
+      "id": "wage_law_art_19",
+      "label": "wage_law_art_19"
+    },
+    {
+      "id": "wage_law_art_19)",
+      "label": "wage_law_art_19)"
+    },
+    {
+      "id": "wage_law_art_19a",
+      "label": "wage_law_art_19a"
+    },
+    {
+      "id": "wage_law_art_2",
+      "label": "wage_law_art_2"
+    },
+    {
+      "id": "wage_law_art_20",
+      "label": "wage_law_art_20"
+    },
+    {
+      "id": "wage_law_art_24",
+      "label": "wage_law_art_24"
+    },
+    {
+      "id": "wage_law_art_25",
+      "label": "wage_law_art_25"
+    },
+    {
+      "id": "wage_law_art_25a",
+      "label": "wage_law_art_25a"
+    },
+    {
+      "id": "wage_law_art_25b",
+      "label": "wage_law_art_25b"
+    },
+    {
+      "id": "wage_law_art_26)",
+      "label": "wage_law_art_26)"
+    },
+    {
+      "id": "wage_law_art_28)",
+      "label": "wage_law_art_28)"
+    },
+    {
+      "id": "wage_law_art_3",
+      "label": "wage_law_art_3"
+    },
+    {
+      "id": "wage_law_art_30",
+      "label": "wage_law_art_30"
+    },
+    {
+      "id": "wage_law_art_31",
+      "label": "wage_law_art_31"
+    },
+    {
+      "id": "wage_law_art_32",
+      "label": "wage_law_art_32"
+    },
+    {
+      "id": "wage_law_art_33",
+      "label": "wage_law_art_33"
+    },
+    {
+      "id": "wage_law_art_34",
+      "label": "wage_law_art_34"
+    },
+    {
+      "id": "wage_law_art_35",
+      "label": "wage_law_art_35"
+    },
+    {
+      "id": "wage_law_art_4",
+      "label": "wage_law_art_4"
+    },
+    {
+      "id": "wage_law_art_5",
+      "label": "wage_law_art_5"
+    },
+    {
+      "id": "wage_law_art_6",
+      "label": "wage_law_art_6"
+    },
+    {
+      "id": "wage_law_art_7",
+      "label": "wage_law_art_7"
+    },
+    {
+      "id": "wage_law_art_8",
+      "label": "wage_law_art_8"
+    },
+    {
+      "id": "wage_law_art_9",
+      "label": "wage_law_art_9"
+    }
+  ],
+  "edges": [
+    {
+      "source": "wage_law_art_10",
+      "target": "wage_law_art_9",
+      "type": "COMPLEMENTS_AND_REFERENCES",
+      "description": "Статья 10 является дополнением к Статье 9 для не-месячных работников и прямо ссылается на нее в качестве исключения для тех, кто работал полный месяц с авансами."
+    },
+    {
+      "source": "wage_law_art_10",
+      "target": "wage_law_art_17",
+      "type": "TRIGGERS_PENALTY",
+      "description": "Нарушение срока, установленного в Статье 10 (например, невыплата до середины месяца), является триггером для применения механизма компенсации (פיצויי הלנת שכר) из Статьи 17."
+    },
+    {
+      "source": "wage_law_art_10",
+      "target": "case_haifa_uni_staff",
+      "type": "INTERPRETED_BY_COURT",
+      "description": "Этот прецедент разъясняет гибкость в установлении сроков выплаты по соглашению сторон в рамках, очерченных законом."
+    },
+    {
+      "source": "wage_law_art_10",
+      "target": "case_dir_al_asad_vs_nazareth",
+      "type": "HAS_PROCEDURAL_RULE",
+      "description": "Устанавливает общее правило для всех сроков выплат: нельзя использовать выходные как повод для задержки."
+    },
+    {
+      "source": "wage_law_art_11",
+      "target": "wage_law_art_17",
+      "type": "TRIGGERS_PENALTY",
+      "description": "Нарушение срока выплаты по завершении проекта (установленного в Статье 11) является триггером для применения механизма компенсации (פיצויי הלנת שכר) из Статьи 17."
+    },
+    {
+      "source": "wage_law_art_11",
+      "target": "nuance_project_splitting",
+      "type": "HAS_POTENTIAL_LOOPHOLE",
+      "description": "Искусственное разделение проектов является потенциальным способом обхода данной статьи."
+    },
+    {
+      "source": "wage_law_art_12",
+      "target": "wage_law_art_9",
+      "type": "REFERENCES_RULE_FROM",
+      "description": "Статья 12 делегирует определение срока выплаты этой статье в случае увольнения работника на месячном окладе."
+    },
+    {
+      "source": "wage_law_art_12",
+      "target": "wage_law_art_10",
+      "type": "REFERENCES_RULE_FROM",
+      "description": "Статья 12 делегирует определение срока выплаты этой статье в случае увольнения работника с почасовой/поденной оплатой."
+    },
+    {
+      "source": "wage_law_art_12",
+      "target": "wage_law_art_11",
+      "type": "REFERENCES_RULE_FROM",
+      "description": "Статья 12 делегирует определение срока выплаты этой статье в случае увольнения работника на сдельной/проектной оплате."
+    },
+    {
+      "source": "wage_law_art_12",
+      "target": "wage_law_art_17",
+      "type": "TRIGGERS_PENALTY",
+      "description": "Нарушение срока, установленного через Статью 12 (т.е. срока из статей 9, 10 или 11), является триггером для применения механизма компенсации (פיצויי הלנת שכר) из Статьи 17."
+    },
+    {
+      "source": "wage_law_art_12",
+      "target": "advance_notice_law_2001",
+      "type": "APPLIES_TO",
+      "description": "Гарантирует, что зарплата за период предварительного уведомления (תמורת הודעה מוקדמת) также выплачивается в обычные сроки."
+    },
+    {
+      "source": "wage_law_art_13",
+      "target": "regulations_special_due_dates_1987",
+      "type": "IMPLEMENTED_THROUGH",
+      "description": "Полномочия, данные министру в Статье 13, были реализованы через принятие этих постановлений, которые устанавливают конкретные сроки для особых случаев."
+    },
+    {
+      "source": "wage_law_art_13",
+      "target": "case_1194_01",
+      "type": "INTERPRETED_BY_COURT",
+      "description": "Этот прецедент устанавливает неразрывную связь между Статьей 13 и Постановлениями 1987 года, делая их единым правовым механизмом."
+    },
+    {
+      "source": "wage_law_art_14",
+      "target": "wage_law_art_9",
+      "type": "MODIFIES_DUE_DATE_FOR",
+      "description": "Устанавливает специальный срок для выплаты доплат, который по умолчанию привязан к обычному сроку выплаты зарплаты из Статьи 9."
+    },
+    {
+      "source": "wage_law_art_14",
+      "target": "wage_law_art_17",
+      "type": "TRIGGERS_PENALTY",
+      "description": "Нарушение срока выплаты доплаты, установленного в Статье 14, является триггером для применения механизма компенсации (פיצויי הלנת שכר) из Статьи 17."
+    },
+    {
+      "source": "wage_law_art_14",
+      "target": "labor_court_law_1969",
+      "type": "GRANTS_JURISDICTION_TO",
+      "description": "Статья 14 напрямую наделяет Региональный трудовой суд полномочиями изменять сроки выплат, создавая механизм разрешения споров."
+    },
+    {
+      "source": "wage_law_art_14",
+      "target": "collective_agreements_law_1957",
+      "type": "REFERENCES_AS_BASIS",
+      "description": "Признает коллективные договоры (הסכם קיבוצי) как легитимное основание для ретроактивного повышения зарплаты."
+    },
+    {
+      "source": "wage_law_art_15",
+      "target": "wage_law_art_9",
+      "type": "WORKS_IN_TANDEM_WITH",
+      "description": "Статья 15 определяет микро-сроки (в течение дня), в то время как Статья 9 определяет макро-сроки (в течение месяца). Они работают вместе, создавая полную картину временных рамок."
+    },
+    {
+      "source": "wage_law_art_15",
+      "target": "wage_law_art_6",
+      "type": "COMPLEMENTS",
+      "description": "Дополняет Статью 6. Если зарплата выплачивается наличными напрямую работнику (а не через посредника), Статья 15 определяет, где и когда это должно произойти."
+    },
+    {
+      "source": "wage_law_art_16",
+      "target": "wage_law_art_17",
+      "type": "USES_CALCULATION_METHOD_FROM",
+      "description": "Статья 16(в) прямо указывает, что компенсация за просрочку пенсии (פיצוי הלנת קצבה) рассчитывается по тому же механизму, что и компенсация за просрочку зарплаты из Статьи 17."
+    },
+    {
+      "source": "wage_law_art_16g",
+      "target": "wage_law_art_16",
+      "type": "TRIGGERS_PENALTY_FOR",
+      "description": "Невыполнение обязанности по своевременной подаче заявления (ст. 16г) является основанием для взыскания компенсации за просрочку пенсии (ст. 16) с работодателя, а не с пенсионного фонда."
+    },
+    {
+      "source": "wage_law_art_16",
+      "target": "case_bre_13666_05_11",
+      "type": "INTERPRETED_BY_COURT",
+      "description": "Прецедент подтверждает, что механизм компенсации за просрочку в полной мере применяется к пенсионным выплатам."
+    },
+    {
+      "source": "wage_law_art_17",
+      "target": "wage_law_art_9",
+      "type": "IS_PENALTY_FOR_VIOLATING",
+      "description": "Является санкцией за нарушение сроков выплаты месячной зарплаты."
+    },
+    {
+      "source": "wage_law_art_17",
+      "target": "wage_law_art_10",
+      "type": "IS_PENALTY_FOR_VIOLATING",
+      "description": "Является санкцией за нарушение сроков выплаты немесячной зарплаты."
+    },
+    {
+      "source": "wage_law_art_17",
+      "target": "wage_law_art_11",
+      "type": "IS_PENALTY_FOR_VIOLATING",
+      "description": "Является санкцией за нарушение сроков выплаты сдельной зарплаты."
+    },
+    {
+      "source": "wage_law_art_17",
+      "target": "wage_law_art_12",
+      "type": "IS_PENALTY_FOR_VIOLATING",
+      "description": "Является санкцией за нарушение сроков выплаты при увольнении."
+    },
+    {
+      "source": "wage_law_art_17",
+      "target": "wage_law_art_18",
+      "type": "CAN_BE_MITIGATED_BY",
+      "description": "Статья 18 дает суду полномочия снизить или отменить компенсацию по Статье 17 при наличии уважительных причин."
+    },
+    {
+      "source": "wage_law_art_17",
+      "target": "wage_law_art_17a",
+      "type": "HAS_STATUTE_OF_LIMITATIONS_IN",
+      "description": "Статья 17а устанавливает особый, сокращенный срок исковой давности для требования компенсации по Статье 17."
+    },
+    {
+      "source": "wage_law_art_18",
+      "target": "case_motor_ap_vs_vared",
+      "type": "INTERPRETED_BY_COURT",
+      "description": "Этот прецедент устанавливает ключевые принципы судейского усмотрения при применении Статьи 18 — баланс интересов и пропорциональность."
+    },
+    {
+      "source": "wage_law_art_19",
+      "target": "wage_law_art_17",
+      "type": "EXEMPTS_FROM_PENALTY_OF",
+      "description": "Статья 19 создает исключение, освобождая управляющего при банкротстве от выплаты *штрафной* части компенсации по Статье 17, но сохраняя базовую (индексацию)."
+    },
+    {
+      "source": "wage_law_art_19a",
+      "target": "wage_law_art_17",
+      "type": "APPLIES_PENALTY_OF",
+      "description": "Статья 19а, наоборот, *применяет* механизм компенсации из Статьи 17 к долгам перед пенсионными фондами, приравнивая их к задержанной зарплате."
+    },
+    {
+      "source": "wage_law_art_19",
+      "target": "insolvency_law_2018",
+      "type": "WORKS_IN_CONJUNCTION_WITH",
+      "description": "Статья 19 была адаптирована (поправкой №29) и работает в рамках процедур, установленных новым законом о неплатежеспособности."
+    },
+    {
+      "source": "wage_law_art_2",
+      "target": "case_ezra_zion",
+      "type": "INTERPRETED_BY_COURT",
+      "description": "Конкретизирует обязанность работодателя по обеспечению получения денег."
+    },
+    {
+      "source": "wage_law_art_2",
+      "target": "cash_reduction_law_2018",
+      "type": "LIMITED_BY",
+      "description": "Создает коллизию и ограничивает применение Статьи 2 для крупных сумм."
+    },
+    {
+      "source": "wage_law_art_25",
+      "target": "wage_law_art_25a",
+      "type": "HAS_FOLLOWUP_OBLIGATION",
+      "description": "Удержание средств (ст. 25) порождает немедленную обязанность по их своевременной передаче (ст. 25а)."
+    },
+    {
+      "source": "wage_law_art_25a",
+      "target": "wage_law_art_25b",
+      "type": "VIOLATION_TRIGGERS_PENALTY_OF",
+      "description": "Невыполнение обязанности по передаче средств (ст. 25а) влечет самые суровые уголовные санкции в законе (ст. 25б)."
+    },
+    {
+      "source": "wage_law_art_25",
+      "target": "wage_law_art_17",
+      "type": "VIOLATION_IS_EQUIVALENT_TO",
+      "description": "Незаконное удержание рассматривается как задержка зарплаты (שכר מולן), что дает работнику право требовать компенсацию по Статье 17."
+    },
+    {
+      "source": "wage_law_art_26",
+      "target": "wage_law_art_25b",
+      "type": "DEFINES_LIABLE_PERSONS_FOR",
+      "description": "Статья 26 определяет, кто персонально несет ответственность (должностные лица) за уголовные нарушения, описанные в Статье 25б."
+    },
+    {
+      "source": "wage_law_art_28",
+      "target": "wage_law_art_25",
+      "type": "PROVIDES_REMEDY_FOR_VIOLATING",
+      "description": "Подпункт (а)(1) Статьи 28 дает право на иск лицам (например, пенсионным фондам), которым предназначались удержания по Статье 25."
+    },
+    {
+      "source": "wage_law_art_28",
+      "target": "wage_law_art_19a",
+      "type": "PROVIDES_REMEDY_FOR_VIOLATING",
+      "description": "Подпункт (а)(2) Статьи 28 дает право на иск пенсионным фондам для взыскания долга, который приравнивается к задержанной зарплате по Статье 19а."
+    },
+    {
+      "source": "wage_law_art_28",
+      "target": "wage_law_art_17",
+      "type": "ENABLES_CLAIM_FOR",
+      "description": "Подпункт (б) Статьи 28 позволяет профсоюзам подавать иск от имени работника для взыскания компенсации за задержку, установленной Статьей 17."
+    },
+    {
+      "source": "wage_law_art_28a",
+      "target": "labor_court_law_1969",
+      "type": "ENFORCED_IN",
+      "description": "Споры о незаконном увольнении или преследовании в нарушение Статьи 28а рассматриваются в Суде по трудовым спорам, который может постановить восстановить работника на работе."
+    },
+    {
+      "source": "wage_law_art_3",
+      "target": "wage_law_art_2",
+      "type": "IS_AN_EXCEPTION_TO",
+      "description": "Является исключением из общего принципа денежной выплаты."
+    },
+    {
+      "source": "wage_law_art_3",
+      "target": "minimum_wage_law_1987",
+      "type": "MUST_COMPLY_WITH",
+      "description": "Денежная часть зарплаты не может быть ниже минимальной."
+    },
+    {
+      "source": "wage_law_art_3",
+      "target": "foreign_workers_law_1991",
+      "type": "HAS_SPECIAL_REGULATIONS_IN",
+      "description": "Для иностранных работников действуют особые, более строгие правила вычетов."
+    },
+    {
+      "source": "wage_law_art_30",
+      "target": "wage_law_art_19",
+      "type": "HAS_EXCEPTION_DEFINED_IN",
+      "description": "Подпункт (б) Статьи 30 создает исключение, которое напрямую связано с ситуациями банкротства, регулируемыми Статьей 19."
+    },
+    {
+      "source": "wage_law_art_31",
+      "target": "case_hcj_265_68",
+      "type": "INTERPRETED_BY_COURT",
+      "description": "Этот прецедент устанавливает, что полномочия по Статье 31 являются не только правом, но и обязанностью министра для защиты работников."
+    },
+    {
+      "source": "wage_law_art_31",
+      "target": "case_kav_laoved_vs_israel",
+      "type": "LIMITED_BY_COURT",
+      "description": "Этот прецедент ограничивает полномочия министра по Статье 31, подтверждая возможность судебного контроля над издаваемыми постановлениями."
+    },
+    {
+      "source": "wage_law_art_32",
+      "target": "wage_law_art_31",
+      "type": "CONSTRAINS_POWER_OF",
+      "description": "Статья 32 накладывает обязательное процедурное ограничение на полномочия, данные министру в Статье 31. Он не может издавать постановления в вакууме, без социального диалога."
+    },
+    {
+      "source": "wage_law_art_32",
+      "target": "case_hcj_384_66_fuksman",
+      "type": "INTERPRETED_BY_COURT",
+      "description": "Этот прецедент устанавливает, что нарушение процедуры консультации является весомым основанием для отмены подзаконного акта в суде."
+    },
+    {
+      "source": "wage_law_art_33",
+      "target": "case_31600_10_11",
+      "type": "INTERPRETED_BY_COURT",
+      "description": "Прецедент подтверждает, что административные трудности не являются для государства оправданием для нарушения закона."
+    },
+    {
+      "source": "wage_law_art_33",
+      "target": "labor_court_law_1969",
+      "type": "CONFIRMS_JURISDICTION_OVER",
+      "description": "Подтверждает, что споры госслужащих с государством-работодателем по вопросам зарплаты рассматриваются в Суде по трудовым спорам на общих основаниях."
+    },
+    {
+      "source": "wage_law_art_35",
+      "target": "case_456_18",
+      "type": "INTERPRETED_BY_COURT",
+      "description": "Прецедент подтверждает недействительность применения отмененных османских норм на практике."
+    },
+    {
+      "source": "wage_law_art_4",
+      "target": "case_froyimovich_vs_bar_adon",
+      "type": "INTERPRETED_BY_COURT",
+      "description": "Подтверждает императивный характер статьи, делая любые соглашения об ограничении прав ничтожными."
+    },
+    {
+      "source": "wage_law_art_5",
+      "target": "nuance_collective_agreement_exception",
+      "type": "HAS_EXCEPTION",
+      "description": "Единственное легальное исключение из правила."
+    },
+    {
+      "source": "wage_law_art_6",
+      "target": "wage_law_art_2",
+      "type": "COMPLEMENTS",
+      "description": "Дополняет Статью 2. Статья 6 определяет, *КОМУ* и *ЧЕРЕЗ КОГО* можно платить, в то время как Статья 2 определяет, *В КАКОЙ ФОРМЕ* (наличные, чек) производится платеж."
+    },
+    {
+      "source": "wage_law_art_6",
+      "target": "wage_law_art_15",
+      "type": "WORKS_IN_TANDEM_WITH",
+      "description": "Работает в паре со Статьей 15, которая определяет *ГДЕ* и *КОГДА* должна производиться выплата."
+    },
+    {
+      "source": "wage_law_art_6",
+      "target": "nuance_written_instruction",
+      "type": "HAS_REQUIREMENT",
+      "description": "Требование письменного указания является ключевым для законности выплаты через любого посредника."
+    },
+    {
+      "source": "wage_law_art_7",
+      "target": "wage_law_art_17",
+      "type": "ENFORCED_BY",
+      "description": "В случае задержки выплаты зарплаты умершего, его наследники могут требовать компенсацию за просрочку (פיצויי הלנת שכר) согласно Статье 17."
+    },
+    {
+      "source": "wage_law_art_8",
+      "target": "case_hcj_2293_17",
+      "type": "HAS_CONSTITUTIONAL_BASIS_IN",
+      "description": "Верховный суд признал, что зарплата является конституционно защищенной собственностью, что усиливает защитный характер Статьи 8."
+    },
+    {
+      "source": "wage_law_art_8",
+      "target": "wage_law_art_6",
+      "type": "EXTENDS_PROTECTION_TO",
+      "description": "Подпункт (е) распространяет защиту Статьи 8 на зарплату, находящуюся в руках посредников (банки, почта и т.д.), определенных в Статье 6, на 30 дней."
+    },
+    {
+      "source": "wage_law_art_9",
+      "target": "wage_law_art_17",
+      "type": "TRIGGERS_PENALTY",
+      "description": "Нарушение срока, установленного в Статье 9, является триггером для применения механизма компенсации за просрочку (פיצויי הלנת שכר) из Статьи 17."
+    },
+    {
+      "source": "wage_law_art_9",
+      "target": "case_arie_levi_vs_sumia_gonzaga",
+      "type": "INTERPRETED_BY_COURT",
+      "description": "Этот прецедент устанавливает, что сроки выплаты по Статье 9 являются императивной нормой и не могут быть изменены по соглашению сторон."
+    },
+    {
+      "source": "wage_law_art_9",
+      "target": "minimum_wage_law_1987",
+      "type": "CRITICAL_FOR",
+      "description": "Соблюдение сроков Статьи 9 особенно важно для минимальной зарплаты, так как ее задержка автоматически квалифицируется как уголовное преступление."
+    }
+  ]
+}
